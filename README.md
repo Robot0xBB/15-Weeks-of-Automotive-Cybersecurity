@@ -9,7 +9,7 @@
 
 
 ## Week 2: Automotive Communication Protocols
-+Introduction to in-vehicle networking
++ Introduction to in-vehicle networking
 + CAN (Controller Area Network) protocol
 + Message framing and arbitration
 * Security vulnerabilities in CAN
