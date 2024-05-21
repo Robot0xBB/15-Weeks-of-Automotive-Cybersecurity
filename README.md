@@ -7,6 +7,7 @@ Importance of cybersecurity in the automotive industry
 History of cyber threats in automotive systems
 Current landscape and future trends in automotive cybersecurity
 
+
 ## Week 2: Automotive Communication Protocols
 Introduction to in-vehicle networking
 CAN (Controller Area Network) protocol
